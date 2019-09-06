@@ -31,7 +31,7 @@ Jupyter notebook detailing the generation of most of the data and figures in thi
 
 1. The collection of routines related to structure-property examination and machine learning.
     * https://github.com/PTC-CMC/atools_ml
-    * DOI: TBA
+    * [![DOI](https://zenodo.org/badge/170754365.svg)](https://zenodo.org/badge/latestdoi/170754365)
 
 1. The random forest models for predicting the coefficient of friction and adhesion for systems of two contacting functionalized monolayers (not python importable)
     * https://github.com/PTC-CMC/random_forest_tg
